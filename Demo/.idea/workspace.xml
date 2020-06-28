@@ -56,18 +56,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592553334326">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593344701919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592553334326" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593344701919" />
     <state x="869" y="13" key="#xdebugger.evaluate" timestamp="1592553476462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="869" y="13" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1592553476462" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1592552875965">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1593344244276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592552875965" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593344244276" />
     <state width="1345" height="489" key="GridCell.Tab.0.bottom" timestamp="1593080868496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -100,14 +100,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592555622908" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1593077198094">
+    <state x="184" y="7" key="SettingsEditor" timestamp="1593344835449">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593077198094" />
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1593152808639">
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593344835449" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1593342364823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593152808639" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593342364823" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
