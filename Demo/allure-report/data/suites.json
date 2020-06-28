@@ -1,0 +1,74 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_chaining",
+    "children" : [ {
+      "name" : "test_save_resp_jsonfile",
+      "uid" : "ac8e7aea0c09f2aa",
+      "parentUid" : "8e74e7ddc479240b2fa37ab94a529327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593154127990,
+        "stop" : 1593154128001,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_status_code",
+      "uid" : "d878765b7a2d950f",
+      "parentUid" : "8e74e7ddc479240b2fa37ab94a529327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593154128640,
+        "stop" : 1593154128641,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_response_time",
+      "uid" : "2bbcd3d6412ff27c",
+      "parentUid" : "8e74e7ddc479240b2fa37ab94a529327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593154129209,
+        "stop" : 1593154129216,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_response_content_type",
+      "uid" : "7a19c41f3727eafa",
+      "parentUid" : "8e74e7ddc479240b2fa37ab94a529327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593154129750,
+        "stop" : 1593154129751,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_response_field_state",
+      "uid" : "84e1b4b701e9d425",
+      "parentUid" : "8e74e7ddc479240b2fa37ab94a529327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593154130265,
+        "stop" : 1593154130267,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8e74e7ddc479240b2fa37ab94a529327"
+  } ]
+}

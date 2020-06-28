@@ -1,0 +1,63 @@
+{
+  "uid" : "6db6cdaa1c16b36",
+  "name" : "test_response_content_type",
+  "fullName" : "test_chaining#test_response_content_type",
+  "historyId" : "f7924a05d4931a85986ec8aab9447a57",
+  "time" : {
+    "start" : 1593077324436,
+    "stop" : 1593077324437,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "hit_api_get",
+    "time" : {
+      "start" : 1593077324013,
+      "stop" : 1593077324434,
+      "duration" : 421
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_chaining"
+  }, {
+    "name" : "host",
+    "value" : "LTIN180243"
+  }, {
+    "name" : "thread",
+    "value" : "19412-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_chaining"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6db6cdaa1c16b36.json",
+  "parameterValues" : [ ]
+}
